@@ -1,0 +1,3 @@
+- npm install mqtt
+- npm init -y
+- npm i dotenv

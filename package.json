@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mqtt": "^5.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mqtt",
+  "description": "- npm install mqtt",
+  "version": "1.0.0",
+  "main": "pub.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
